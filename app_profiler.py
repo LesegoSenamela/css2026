@@ -6,7 +6,7 @@ import numpy as np
 st.set_page_config(page_title="Research Profile", layout="wide")
 
 # Title of the app
-st.title("Research Profile using Streamlit")
+st.title("Research Profile for Lesego Senamela")
 
 # Collect basic information
 name = "Lesego Senamela"
